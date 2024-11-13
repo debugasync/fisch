@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/debugasync/fisch/refs/heads/main/ver.lua"))()
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/debugasync/fisch/refs/heads/main/ver.lua"))()
 
 -- Services
 local players = game:GetService("Players")
